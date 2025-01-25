@@ -2,7 +2,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 import { QuizState, QuizQuestion, QuizResult } from "../types/types";
 
-const API_URL = "http://localhost:5232/api/quiz";
+const API_URL = "http://localhost:5054/api/quiz";
 
 const initialState: QuizState = {
   questions: [],
