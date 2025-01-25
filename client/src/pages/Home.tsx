@@ -8,7 +8,7 @@ const Home = () => {
         <h1 className="home__title">Welcome to the Quiz App</h1>
         <div className="home__links">
           <Link to="/quiz" className="home__link">
-            Quiz
+            Start the quiz
           </Link>
           <Link to="/leaderboard" className="home__link">
             High Scores

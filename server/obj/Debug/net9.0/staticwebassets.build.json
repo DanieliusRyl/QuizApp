@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DsUqbtrBTLRQhCNIsZRp9IHgsdRUoTVi8S3UED60ORs=",
+  "Hash": "jF68Qgy53PoECLKGHpHHImoXNS7fROMIn4xXqj9IwEo=",
   "Source": "server",
   "BasePath": "_content/server",
   "Mode": "Default",
@@ -9,10 +9,10 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
+      "Identity": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
       "SourceId": "server",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/server",
       "RelativePath": "server#[.{fingerprint=luetoit78c}]?.styles.css.gz",
       "AssetKind": "All",
@@ -20,20 +20,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
+      "RelatedAsset": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ywy4zc4x24",
       "Integrity": "PkMHrM+YZp2R/eyCdly0KFoIAcp7DJeIs9LCq8dL6DE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css"
+      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css"
     },
     {
-      "Identity": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
+      "Identity": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
       "SourceId": "server",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/server",
       "RelativePath": "server#[.{fingerprint=luetoit78c}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -41,20 +41,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ywy4zc4x24",
       "Integrity": "PkMHrM+YZp2R/eyCdly0KFoIAcp7DJeIs9LCq8dL6DE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
+      "Identity": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
       "SourceId": "server",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/server",
       "RelativePath": "server#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -69,13 +69,13 @@
       "Integrity": "k9/znS24e/PK8+3D9FwIEOyPHNsvjo7ZWKzHJB9Ic8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css"
+      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css"
     },
     {
-      "Identity": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
+      "Identity": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
       "SourceId": "server",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/server",
       "RelativePath": "server#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "Integrity": "k9/znS24e/PK8+3D9FwIEOyPHNsvjo7ZWKzHJB9Ic8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css"
     }
   ],
   "Endpoints": [
     {
       "Route": "server.bundle.scp.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -119,7 +119,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -151,7 +151,7 @@
     },
     {
       "Route": "server.bundle.scp.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -172,7 +172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -188,7 +188,7 @@
     },
     {
       "Route": "server.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -209,7 +209,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -233,7 +233,7 @@
     },
     {
       "Route": "server.luetoit78c.bundle.scp.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -256,7 +256,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -296,7 +296,7 @@
     },
     {
       "Route": "server.luetoit78c.bundle.scp.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\server.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -317,7 +317,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -341,7 +341,7 @@
     },
     {
       "Route": "server.luetoit78c.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\jb2oi4e4id-luetoit78c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -362,7 +362,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -394,7 +394,7 @@
     },
     {
       "Route": "server.luetoit78c.styles.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -417,7 +417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -457,7 +457,7 @@
     },
     {
       "Route": "server.luetoit78c.styles.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -478,7 +478,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -502,7 +502,7 @@
     },
     {
       "Route": "server.luetoit78c.styles.css.gz",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -523,7 +523,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -555,7 +555,7 @@
     },
     {
       "Route": "server.styles.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -578,7 +578,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -610,7 +610,7 @@
     },
     {
       "Route": "server.styles.css",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\scopedcss\\bundle\\server.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -631,7 +631,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -647,7 +647,7 @@
     },
     {
       "Route": "server.styles.css.gz",
-      "AssetFile": "C:\\Users\\danie\\Desktop\\QuizAppV3\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
+      "AssetFile": "C:\\Users\\danie\\Desktop\\quiztest\\QuizApp\\server\\obj\\Debug\\net9.0\\compressed\\dazn4baeoc-luetoit78c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -668,7 +668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 25 Jan 2025 12:55:27 GMT"
+          "Value": "Sat, 25 Jan 2025 14:11:00 GMT"
         },
         {
           "Name": "Cache-Control",

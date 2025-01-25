@@ -5,11 +5,10 @@ public static class SeedData
         if (!context.QuizQuestions.Any())
         {
             context.QuizQuestions.AddRange(
-                // Single-answer questions (radio buttons)
                 new QuizQuestion
                 {
                     Id = 1,
-                    QuestionText = "In which country is UAB 'Present Connection' located?",
+                    QuestionText = "In which country is 'Present Connection' located?",
                     QuestionType = "radio",
                     Options = new List<string> { "Latvia", "Lithuania", "Estonia", "Poland" },
                     CorrectAnswers = new List<string> { "Lithuania" }
@@ -17,7 +16,7 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 2,
-                    QuestionText = "What industry does UAB 'Present Connection' primarily operate in?",
+                    QuestionText = "What industry does 'Present Connection' primarily operate in?",
                     QuestionType = "radio",
                     Options = new List<string> { "Healthcare", "Information Technology", "Manufacturing", "Retail" },
                     CorrectAnswers = new List<string> { "Information Technology" }
@@ -25,7 +24,7 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 3,
-                    QuestionText = "What is a key value or culture emphasized by UAB 'Present Connection'?",
+                    QuestionText = "What is a key value or culture emphasized by 'Present Connection'?",
                     QuestionType = "radio",
                     Options = new List<string> { "Aggressive Competition", "People-First Approach", "Cost-Cutting", "Isolation" },
                     CorrectAnswers = new List<string> { "People-First Approach" }
@@ -33,19 +32,18 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 4,
-                    QuestionText = "What type of clients does UAB 'Present Connection' work with?",
+                    QuestionText = "What type of clients does 'Present Connection' work with?",
                     QuestionType = "radio",
                     Options = new List<string> { "Only local clients", "Only international clients", "Both local and international clients", "Government agencies only" },
                     CorrectAnswers = new List<string> { "Both local and international clients" }
                 },
 
-                // Text input questions (textbox)
                 new QuizQuestion
                 {
                     Id = 5,
-                    QuestionText = "What is the full name of the company 'Present Connection'?",
+                    QuestionText = "What is the full name of the company?",
                     QuestionType = "text",
-                    CorrectAnswers = new List<string> { "UAB Present Connection" }
+                    CorrectAnswers = new List<string> { "Present Connection" }
                 },
                 new QuizQuestion
                 {
@@ -55,11 +53,10 @@ public static class SeedData
                     CorrectAnswers = new List<string> { "UAB" }
                 },
 
-                // Multiple-answer questions (checkboxes)
                 new QuizQuestion
                 {
                     Id = 7,
-                    QuestionText = "Which of the following services does UAB 'Present Connection' provide? (Select all that apply)",
+                    QuestionText = "Which of the following services does 'Present Connection' provide? (Select all that apply)",
                     QuestionType = "checkbox",
                     Options = new List<string> { "Custom Software Development", "IT Consulting", "Digital Transformation", "Cloud Solutions" },
                     CorrectAnswers = new List<string> { "Custom Software Development", "IT Consulting", "Digital Transformation", "Cloud Solutions" }
@@ -67,7 +64,7 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 8,
-                    QuestionText = "Which of the following technologies are used by UAB 'Present Connection'? (Select all that apply)",
+                    QuestionText = "Which of the following technologies are used by 'Present Connection'? (Select all that apply)",
                     QuestionType = "checkbox",
                     Options = new List<string> { ".NET", "Java", "Python", "React" },
                     CorrectAnswers = new List<string> { ".NET", "React" }
@@ -75,7 +72,7 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 9,
-                    QuestionText = "What are the key values of UAB 'Present Connection'? (Select all that apply)",
+                    QuestionText = "What are the key values of 'Present Connection'? (Select all that apply)",
                     QuestionType = "checkbox",
                     Options = new List<string> { "Innovation", "People-First Approach", "Cost-Cutting", "Aggressive Competition" },
                     CorrectAnswers = new List<string> { "Innovation", "People-First Approach" }
@@ -83,7 +80,7 @@ public static class SeedData
                 new QuizQuestion
                 {
                     Id = 10,
-                    QuestionText = "Which of the following are benefits of working with UAB 'Present Connection'? (Select all that apply)",
+                    QuestionText = "Which of the following are benefits of working with 'Present Connection'? (Select all that apply)",
                     QuestionType = "checkbox",
                     Options = new List<string> { "Flexible Work Environment", "Competitive Salary", "Strict Hierarchical Structure", "Limited Career Growth" },
                     CorrectAnswers = new List<string> { "Flexible Work Environment", "Competitive Salary" }
