@@ -115,3 +115,13 @@ Build a web application with the following functionalities:
    ```bash
    http://localhost:5173/
    ```
+## Running Tests
+1. Navigate to the tests directory:
+   ```bash
+   cd QuizApp/tests/QuizApp.tests
+   ```
+2. Run the tests:
+   ```bash
+   dotnet restore
+   dotnet test
+   ```
