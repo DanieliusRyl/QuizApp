@@ -34,6 +34,11 @@ public class QuizController : ControllerBase
         int score = _quizService.CalculateScore(submission.Answers);
         _quizService.SaveResult(submission.Email, score);
 
-        return Ok(new { Score = score });
+        return Ok(new QuizResultResponse { Score = score });
+    }
+
+    public class QuizResultResponse
+    {
+        public int Score { get; set; }
     }
 }

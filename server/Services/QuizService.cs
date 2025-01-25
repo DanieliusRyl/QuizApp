@@ -7,9 +7,9 @@ public class QuizService
         _context = context;
     }
 
-    public IEnumerable<QuizQuestion> GetQuestions() => _context.QuizQuestions.ToList();
+    public virtual IEnumerable<QuizQuestion> GetQuestions() => _context.QuizQuestions.ToList();
 
-    public IEnumerable<QuizResult> GetHighScores()
+    public virtual IEnumerable<QuizResult> GetHighScores()
     {
         return _context.QuizResults
             .OrderByDescending(r => r.Score)
@@ -18,7 +18,7 @@ public class QuizService
             .ToList();
     }
 
-    public int CalculateScore(List<AnswerSubmission> answers)
+    public virtual int CalculateScore(List<AnswerSubmission> answers)
     {
         int totalScore = 0;
 
@@ -50,7 +50,7 @@ public class QuizService
         return totalScore;
     }
 
-    public void SaveResult(string email, int score)
+    public virtual void SaveResult(string email, int score)
     {
         _context.QuizResults.Add(new QuizResult { Email = email, Score = score });
         _context.SaveChanges();
