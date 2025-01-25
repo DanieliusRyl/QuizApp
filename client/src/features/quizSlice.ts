@@ -39,7 +39,7 @@ export const submitQuiz = createAsyncThunk(
     { rejectWithValue }
   ) => {
     try {
-      const response = await axios.post<{ Score: number }>(
+      const response = await axios.post<{ score: number }>(
         `${API_URL}/submit`,
         submission
       );
@@ -87,7 +87,7 @@ const quizSlice = createSlice({
       })
       .addCase(submitQuiz.fulfilled, (state, action) => {
         state.status = "succeeded";
-        state.score = action.payload.Score;
+        state.score = action.payload.score;
       })
       .addCase(submitQuiz.rejected, (state, action) => {
         state.status = "failed";

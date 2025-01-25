@@ -85,6 +85,15 @@ $breakpoint-mobile: 768px;
     font-size: 0.9rem;
     color: #777;
   }
+
+  &__link {
+    position: relative;
+    font-size: 1.7rem;
+    color: $secondary-color;
+    &:hover {
+      color: $primary-color;
+    }
+  }
 }
 
 @media (max-width: $breakpoint-mobile) {

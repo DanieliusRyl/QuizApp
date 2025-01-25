@@ -6,7 +6,7 @@ const SolveQuiz = () => {
   return (
     <div className="solve-quiz">
       <Link to="/" className="solve-quiz__back-link">
-        Go back
+        Quit quiz
       </Link>
       <h1 className="solve-quiz__title">Quiz Questions</h1>
       <div className="solve-quiz__content">

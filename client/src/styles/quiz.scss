@@ -154,14 +154,14 @@ $breakpoint-mobile: 768px;
   &__back-link {
     text-decoration: none;
     color: white;
-    background-color: $secondary-color;
+    background-color: #e74c3c;
     padding: $spacing-unit $spacing-unit * 2;
     border-radius: 4px;
     margin-bottom: $spacing-unit * 2;
     transition: background-color 0.3s ease;
 
     &:hover {
-      background-color: darken($secondary-color, 10%);
+      background-color: darken(#e74c3c, 10%);
     }
   }
 

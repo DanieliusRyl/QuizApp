@@ -60,7 +60,8 @@ const QuizQuestions = () => {
     };
 
     try {
-      await dispatch(submitQuiz(submission)).unwrap();
+      const response = await dispatch(submitQuiz(submission)).unwrap();
+      alert(`congratulations your score was: ${response.score}`);
       navigate("/leaderboard");
     } catch (error) {
       console.error("Submission failed:", error);
